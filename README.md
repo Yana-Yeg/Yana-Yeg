@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![linkedin](https://www.linkedin.com/in/yana-yegorina-b64b2222a/-<Background Color>?style=for-the-badge&logo=Linkedin&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!--
 **Yana-Yeg/Yana-Yeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
