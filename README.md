@@ -2,7 +2,7 @@
 
 🇺🇦 Hi, I’m Yana Yegorina<br>
 👀 I’m interested in getting a Frontend Developer job<br>
-🌱 I’m currently learning TypeScritp and Node.js<br>
+🌱 I’m currently learning TypeScript and Node.js<br>
 🔥 I’m enthusiastic and optimistic<br>
 📫 How to reach me out yanayeg@gmail.com
 
