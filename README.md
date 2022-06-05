@@ -4,11 +4,9 @@
 <h3 >I’m interested in getting a Frontend Developer job</h3>
 
 - 🌱 I’m currently learning **TypeScript and Node.js**
-
+- 🔥 I’m enthusiastic and optimistic
 - 👨‍💻 All of my projects are available here
-
 - 💬 Ask me about **react**
-
 - 📫 How to reach me **yanayeg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
