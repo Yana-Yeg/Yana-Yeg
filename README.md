@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Iana Iegorina</h1>
+<!-- <h1 align="center">Hi 👋, I'm Yana Yegorina</h1>
 <h3 align="center">I’m interested in getting a Frontend Developer job</h3> -->
 <h2 >Hi 👋, I'm Yana Yegorina</h2>
 <h4 >I’m interested in getting a Frontend Developer job</h4>
