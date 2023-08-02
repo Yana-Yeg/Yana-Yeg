@@ -11,7 +11,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/iana-iegorina-b64b2222a/?locale=en_US/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iana-iegorina-b64b2222a/?locale=en_US/" height="27" width="36" /></a>
+<a href="https://www.linkedin.com/in/iana-iegorina-b64b2222a/?locale=en_US/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iana-iegorina-b64b2222a/?locale=en_US/" height="27" width="36" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
